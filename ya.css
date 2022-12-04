@@ -1,0 +1,51 @@
+body{
+    background-color: beige;
+    color: black;
+    size: 200vh;
+
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+}
+
+body .a{
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+    font-size: 0.8em;
+    opacity: 0.4;
+}
+
+.bb {
+    background: linear-gradient(#000046, #1cb5e0);  
+    
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+h3{
+    font-size: 1em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+footer{
+    font-size: 0.5em;
+
+}
+
+h4{
+    font-size: 0.8em;
+    text-decoration: none;
+    text-align: justify;
+}
